@@ -46,11 +46,13 @@ This project applies K-means clustering to the "live.csv" dataset. Initial analy
 Welcome to my GitHub repository! 👋 I'm Youssef, a passionate computer engineer with a strong background in Artificial Intelligence and Big Data. My journey in the tech world includes a Master's in Artificial Intelligence from Bahcesehir University and hands-on experiences as a Web Developer at NEOXIA and an intern at Axa Assurance.
 
 📚 Education:
+
 Master of Science in Artificial Intelligence: Bahcesehir University
 Bachelor of Science in Computer Engineering: IGA
 High School Degree in Science: Ecole Internationale de Casablanca
 
 🌱 Currently Working On:
+
 Thesis: "Portfolio Optimization using Deep Learning" - Sharpe Ratio and Hurst Exponent for cryptocurrency portfolio optimization.
 
 I'm always excited about exploring new projects, collaborating on innovative ideas, and contributing to the tech community. Let's connect and build something amazing together! 🚀
