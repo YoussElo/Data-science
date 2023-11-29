@@ -48,7 +48,9 @@ Welcome to my GitHub repository! 👋 I'm Youssef, a passionate computer enginee
 📚 Education:
 
 Master of Science in Artificial Intelligence: Bahcesehir University
+
 Bachelor of Science in Computer Engineering: IGA
+
 High School Degree in Science: Ecole Internationale de Casablanca
 
 🌱 Currently Working On:
