@@ -12,7 +12,6 @@ Welcome to my Data Science portfolio! This repository contains a diverse set of 
 - Decision Tree on Bill Authentication Data
 - SVM on Credit Card Dataset
 - K-Means on Live Dataset
-- Technologies Used
 - About the Author
 
 ### Card Fraud Detection
