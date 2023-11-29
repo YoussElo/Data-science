@@ -42,6 +42,7 @@ This project applies K-means clustering to the "live.csv" dataset. Initial analy
 
 ### About me
 🚀 Youssef EL OUARDIGHI | Computer Engineer | AI & Data Enthusiast
+
 Welcome to my GitHub repository! 👋 I'm Youssef, a passionate computer engineer with a strong background in Artificial Intelligence and Big Data. My journey in the tech world includes a Master's in Artificial Intelligence from Bahcesehir University and hands-on experiences as a Web Developer at NEOXIA and an intern at Axa Assurance.
 
 📚 Education:
