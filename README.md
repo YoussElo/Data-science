@@ -12,6 +12,7 @@ Welcome to my Data Science portfolio! This repository contains a diverse set of 
 - Decision Tree on Bill Authentication Data
 - SVM on Credit Card Dataset
 - K-Means on Live Dataset
+- Sales project
 - About the Author
 
 ### Card Fraud Detection
@@ -38,6 +39,9 @@ This project uses Support Vector Machines (SVM) to accurately identify fraudulen
 
 ### K-Means on Live Dataset
 This project applies K-means clustering to the "live.csv" dataset. Initial analysis suggests 2 clusters, but further examination reveals suboptimal fit. Revisiting with k=4 yields improved accuracy (0.62), indicating a more accurate representation of underlying patterns. Hence, 4 clusters are recommended for this dataset.
+
+### Sales project
+This project aims to analyze and visualize sales data for phones and gadgets using Python. The project involves importing necessary packages, collecting and creating a dataset from multiple CSV files containing sales data, cleaning the data, and then performing various analyses to gain insights.
 
 ### About me
 🚀 Youssef EL OUARDIGHI | Computer Engineer | AI & Data Enthusiast
