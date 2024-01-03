@@ -43,6 +43,9 @@ This project applies K-means clustering to the "live.csv" dataset. Initial analy
 ### Sales project
 This project aims to analyze and visualize sales data for phones and gadgets using Python. The project involves importing necessary packages, collecting and creating a dataset from multiple CSV files containing sales data, cleaning the data, and then performing various analyses to gain insights.
 
+### Bike Sales Analysis
+Cleaned bike sales data, built pivot tables revealing income, commute, & age group impact on sales. Created an interactive dashboard with slicers, sparking deeper customer purchase insights.
+
 ### About me
 🚀 Youssef EL OUARDIGHI | Computer Engineer | AI & Data Enthusiast
 
