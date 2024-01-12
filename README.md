@@ -1,4 +1,4 @@
-### Data Science Portfolio
+### Data Science/Analysis Portfolio
 
 ## Overview
 Welcome to my Data Science portfolio! This repository contains a diverse set of projects and exercises related to my Master's studies in Artificial Intelligence. Please take a look at the projects and exercises listed below to get an insight into my skills and interests in the field of data science and machine learning.
@@ -12,7 +12,9 @@ Welcome to my Data Science portfolio! This repository contains a diverse set of 
 - Decision Tree on Bill Authentication Data
 - SVM on Credit Card Dataset
 - K-Means on Live Dataset
-- Sales project
+- Gadgets and Phones Sales project
+- Bike Sales Analysis
+- Coffee Sales Analysis
 - About the Author
 
 ### Card Fraud Detection
@@ -45,6 +47,9 @@ This project aims to analyze and visualize sales data for phones and gadgets usi
 
 ### Bike Sales Analysis
 Cleaned bike sales data, built pivot tables revealing income, commute, & age group impact on sales. Created an interactive dashboard with slicers, sparking deeper customer purchase insights.
+
+### Coffee Sales Analysis
+Cleaned bike sales data, built pivot tables revealing sales over time, sales per country, & top 5 customers. Created an interactive dashboard with slicers, & differents charts.
 
 ### About me
 🚀 Youssef EL OUARDIGHI | Computer Engineer | AI & Data Enthusiast
